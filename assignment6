@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head.
+     <meta charset="UTF-8" />
+     <meta name="viewport" content="width=device-initial-scale"
+     <align = "center">
+     <td align="center"
+     <title></title>
+     <td bgcolor="green"
+     <td colspan="4"></td>
+     <table border ="10"
+     <td></td>
+     
+    </head>
+    <body>
+    <thead>
+    <b>
+     <tr>
+    <td align="center" colspan="4"
+     <td bgcolor="green" align="center"
+    
+    <td> FIRST GEN POKEMON CHART </td>
+    
+    <tr>
+    <tr>
+     <td bgcolor="green" align="center"
+
+    <td> IMAGE </td>
+     <td bgcolor="green" align="center"
+
+
+    <td> NAME </td>
+     <td bgcolor="green" align="center"
+
+    <td> TYPE</td>
+     <td bgcolor="green" align="center"
+
+    <td> EVOLVES INTO </td>
+    </tr>
+   
+    <td bgcolor="yellow" align="center"
+    <td> <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"> </td>
+    <td bgcolor="yellow" align="center"
+    <td > Balbasur </td>
+    <td bgcolor="yellow" align="center"
+    <td > Grass / poison </td>
+    <td bgcolor="yellow" align="center"
+    <td > <a href= "https://www.pokemon.com/us/pokedex/ivysaur">ivysaur</a>
+    </tr
+
+    <tr>
+    
+    <td bgcolor="yellow" align="center"
+    <td> <img src="https://upload.wikimedia.org/wikipedia/en/a/a5/Pok%C3%A9mon_Charmander_art.png"
+    height="200"
+    
+    >
+    
+    </td>
+
+    <td bgcolor="yellow" align="center"
+    <td> Charmander</td>
+    <td bgcolor="yellow" align="center"  
+    <td> Fire </td>
+    <td bgcolor="yellow" align="center"
+    <td> <a href = "https://www.pokemon.com/us/pokedex/charmeleon"> charmeleon</a></td>
+    </tr>
+    <td bgcolor="yellow" align="center"
+    <td> <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    height="200"
+    ></td>
+    <td bgcolor="yellow" align="center"
+    <td> Squirtle </td>
+    <td bgcolor="yellow" align="center"
+    <td> Water</td>
+    <td bgcolor="yellow" align="center" 
+    <td><a href="https://www.pokemon.com/us/pokedex/squirtle">Wartortle</a> </td>
+    
+   
+    </thead>
+    <tbody >
+    <tbody>
+    <tbody>
+    </table>
+    </b>
+      
+    </body>
+</html>
+
+
+
